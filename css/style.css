@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+#header-logo {
+    height: 100px;
+    background-color: cornflowerblue;
+}
+
+.pattern {
+    background-image: url(../img/pattern.png);
+    background-size:400px;
+    height: 100%;
+}
