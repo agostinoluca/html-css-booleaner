@@ -5,6 +5,11 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body {
+    width: 1200px;
+    margin: auto;
+}
+
 #header-logo {
     height: 100px;
 }
