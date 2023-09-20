@@ -6,7 +6,6 @@
 
 #header-logo {
     height: 100px;
-    background-color: cornflowerblue;
 }
 
 main {
@@ -14,9 +13,10 @@ main {
 }
 
 .pattern {
-    background-image: url(../img/pattern.png);
+    background-image: url("../img/pattern.png");
     background-size:400px;
     height: 100%;
+    background-color: cornflowerblue;
 }
 
 #logo {
@@ -57,5 +57,25 @@ h6 {
 }
 
 #noname-list {
-    padding-left: 20px;
+    padding: 0 0 20px 20px;
+}
+
+table {
+    border-spacing: 0;
+}
+
+thead {
+    background-color: rgb(23, 115, 202);
+}
+
+.w25 {
+    width: 25%;
+}
+
+.w50 {
+    width: 50%;
+}
+
+.backblue {
+    background-color: rgb(147, 191, 228);
 }
