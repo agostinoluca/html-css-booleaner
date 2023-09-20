@@ -41,9 +41,21 @@ section {
 }
 
 h6 {
-    color:grey;
+    color:grey;illo, aliquid quisquam esse, hic optio eveniet, sit dolor. Deserunt id officia totam corrupti vitae ab, inventore perferendis sint nesciunt ullam? Quas debitis assumenda, impedit magnam 
 }
 
 .description-photo {
     font-size: smaller;
+}
+
+.paragrafo {
+    margin: 20px 0 20px 0;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+#noname-list {
+    padding-left: 20px;
 }
